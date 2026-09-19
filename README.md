@@ -1,3 +1,5 @@
-#Hi, I'm Tim!
-**CompTIA Network +** -Complete
-**Microsoft Azure AI (AI-901)**
+Hi, I'm Tim
+-CompTIA Network+Complete
+-Microsoft Azure AI (AI-901)
+
+
